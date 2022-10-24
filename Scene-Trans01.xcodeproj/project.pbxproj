@@ -13,6 +13,7 @@
 		134DED15290408480038CCDB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 134DED13290408480038CCDB /* Main.storyboard */; };
 		134DED17290408490038CCDB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 134DED16290408490038CCDB /* Assets.xcassets */; };
 		134DED1A290408490038CCDB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 134DED18290408490038CCDB /* LaunchScreen.storyboard */; };
+		134DED222906C7690038CCDB /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 134DED212906C7690038CCDB /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		134DED16290408490038CCDB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		134DED19290408490038CCDB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		134DED1B290408490038CCDB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		134DED212906C7690038CCDB /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				134DED0F290408480038CCDB /* SceneDelegate.swift */,
 				134DED11290408480038CCDB /* ViewController.swift */,
 				134DED13290408480038CCDB /* Main.storyboard */,
+				134DED212906C7690038CCDB /* SecondViewController.swift */,
 				134DED16290408490038CCDB /* Assets.xcassets */,
 				134DED18290408490038CCDB /* LaunchScreen.storyboard */,
 				134DED1B290408490038CCDB /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				134DED222906C7690038CCDB /* SecondViewController.swift in Sources */,
 				134DED12290408480038CCDB /* ViewController.swift in Sources */,
 				134DED0E290408480038CCDB /* AppDelegate.swift in Sources */,
 				134DED10290408480038CCDB /* SceneDelegate.swift in Sources */,
